@@ -5,6 +5,3 @@ dann die Datenbank auswählen, welche man exportieren will.
 
 **Import:** Man drückt oben auf Import, dann wählt man die Datei aus (Datenbank). Dann scrollt man unten und drückt auf Import.
 
-### Aufgabe 2
-
-
